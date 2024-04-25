@@ -1,7 +1,3 @@
-Certainly! Here's a formatted version of the installation steps that you can directly paste into your GitHub README:
-
----
-
 ### Weather App Installation Guide
 
 Follow these steps to set up and run the Weather App on your local machine:
